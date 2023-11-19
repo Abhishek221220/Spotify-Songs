@@ -1,1 +1,2 @@
 # electric-vehicle-population
+This dataset, obtained from Data.gov (United States), contains information about electric vehicles. The columns include VIN, County, City, State, Postal Code, Model Year, Make, Model, Electric Vehicle Type, Clean Alternative Fuel Vehicle (CAFV) Eligibility, Electric Range, Base MSRP, Legislative District, DOL Vehicle ID, Vehicle Location, Electric Utility, and 2020 Census Tract.
